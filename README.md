@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Matan.
-be sure to checkout my personal blog: http://iammatan.com
+You can contact me here: http://iammatan.com
 <!--
 **matan1905/matan1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
